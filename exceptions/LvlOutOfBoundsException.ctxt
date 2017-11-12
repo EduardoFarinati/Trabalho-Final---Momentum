@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=lvl
+comment0.target=LvlOutOfBoundsException(int)
+comment0.text=\r\n\ Constructor\ para\ excecao\ LvlOutOfBoundsException\r\n
+numComments=1

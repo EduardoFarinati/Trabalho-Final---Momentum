@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=icone
+comment0.target=Sprite(javax.swing.ImageIcon[])
+comment1.params=icone
+comment1.target=Sprite(javax.swing.ImageIcon)
+comment2.params=orientacao
+comment2.target=javax.swing.ImageIcon\ getImageIcon(int)
+comment3.params=
+comment3.target=javax.swing.ImageIcon\ getImageIcon()
+numComments=4

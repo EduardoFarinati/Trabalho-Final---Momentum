@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=F1(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ F1\r\n
+comment1.params=x\ y\ Vx\ Vy
+comment1.target=F1(int,\ int,\ int,\ int)
+comment2.params=x\ y\ vel
+comment2.target=F1(int,\ int,\ movement.Vector)
+comment3.params=
+comment3.target=void\ especial()
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=4

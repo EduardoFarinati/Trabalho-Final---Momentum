@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numScores\ panel
+comment0.target=BlinkThread(int,\ HighscoresPanel)
+comment0.text=\r\n\ BlinkThread\ recebe\ um\ int\ do\ numero\ de\ labels\ para\ piscar\ e\ um\ panel\r\n
+comment1.params=score
+comment1.target=void\ addScore(javax.swing.JLabel)
+comment1.text=\r\n\ para\ adicionarmos\ um\ label\ a\ thread\r\n
+comment2.params=
+comment2.target=void\ run()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=icon
+comment0.target=BackgroundLabel(javax.swing.ImageIcon)
+comment0.text=\r\n\ Construtor\ para\ BackgroundLabel,\ recebe\ o\ fundo\r\n
+comment1.params=dinamico\ animated
+comment1.target=void\ setObjects(gridObject.Dinamico[],\ gridObject.Animado[])
+comment2.params=x\ y\ width\ height
+comment2.target=void\ setBounds(int,\ int,\ int,\ int)
+numComments=3

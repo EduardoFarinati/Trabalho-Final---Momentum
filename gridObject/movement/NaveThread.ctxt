@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nave\ arr\ levelP
+comment0.target=NaveThread(gridObject.Nave,\ gridObject.GridObject[],\ ui.LevelPanel)
+comment0.text=\r\n\ NaveThread\ recebe\ um\ objeto\ do\ tipo\ dinamico\ para\ ser\ movido\r\n
+comment1.params=
+comment1.target=void\ run()
+numComments=2

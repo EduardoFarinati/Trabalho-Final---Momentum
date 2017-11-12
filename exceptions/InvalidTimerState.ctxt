@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=acao\ running
+comment0.target=InvalidTimerState(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ para\ a\ excecao\ InvalidTimerState\r\n
+numComments=1

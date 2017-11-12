@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vector()
+comment0.text=\r\n\ Constructor\ de\ Vector\ -\ Polimorfico\r\n\ inicializa\ ou\ com\ o\ vetor\ nulo\ ou\ com\ uma\ velocidade\ fornecida\r\n
+comment1.params=Vx\ Vy
+comment1.target=Vector(int,\ int)
+comment2.params=acel\ orientacao
+comment2.target=void\ changeVel(int,\ int)
+comment2.text=\r\n\ changeVel\ -\ muda\ a\ intensidade\ em\ x\ e/ou\ em\ y\ do\ vetor\r\n\ \r\n\ @param\ \ acel\ aceleracao\ recebida\r\n
+comment3.params=
+comment3.target=int\ getVx()
+comment4.params=
+comment4.target=int\ getVy()
+numComments=5

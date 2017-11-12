@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=mainFrame
+comment0.target=Fase_3(ui.MainFrame)
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\r\n\ start\ -\ Inicializa\ a\ fase\ 3\r\n
+comment2.params=
+comment2.target=int\ getLevelNum()
+comment2.text=\r\n\ Retorna\ nosso\ nivel,\ no\ caso\:\ 3\r\n
+numComments=3

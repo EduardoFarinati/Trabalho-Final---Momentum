@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=wall\ endX\ endY\ wallType\ levelP
+comment0.target=WallThread(gridObject.MobileWall,\ int,\ int,\ boolean,\ ui.LevelPanel)
+comment0.text=\r\n\ \ WallThread\ recebe\ uma\ parede\ a\ ser\ movida\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ calculaPosicao()
+numComments=3

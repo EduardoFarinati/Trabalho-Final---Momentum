@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ Vx\ Vy\ resourceLoader
+comment0.target=HorizontalMobileWall(int,\ int,\ int,\ int,\ ui.resources.ResourceLoader)
+comment0.text=\r\n\ Construtor\ de\ HorizontalMobileWall\r\n
+comment1.params=x\ y\ V\ resourceLoader
+comment1.target=HorizontalMobileWall(int,\ int,\ movement.Vector,\ ui.resources.ResourceLoader)
+numComments=2

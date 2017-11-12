@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=movement.Vector\ getVel()
+comment0.text=\r\n\ Todo\ objeto\ dinamico\ deve\ ter\ uma\ variavel\ vel\ \ e\ um\ metodo\ de\ retorno\ deste\r\n
+comment1.params=vel
+comment1.target=void\ setVel(movement.Vector)
+comment1.text=\r\n\ Todo\ objeto\ dinamico\ deve\ ter\ uma\ variavel\ vel\ \ e\ um\ metodo\ para\ podermos\ seta-lo\r\n
+numComments=2

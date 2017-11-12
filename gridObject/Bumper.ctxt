@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ type\ resourceLoader
+comment0.target=Bumper(int,\ int,\ int,\ ui.resources.ResourceLoader)
+comment0.text=\r\n\ Construtor\ da\ classe\ Bumper\r\n\ \r\n\ @param\ pos_x,\ pos_y\ parametros\ de\ posicao\r\n\ @param\ tyoe\ orientacao\ do\ Bumper\ em\ graus\r\n
+comment1.params=nave\ levelP
+comment1.target=void\ colisao(Nave,\ ui.LevelPanel)
+comment1.text=\r\n\ colisao\ -\ Damos\ override\ no\ metodo\ de\ colisao\ para\ definir\ o\ que\ ocorre\ apos\ uma\ colisao\r\n
+comment2.params=
+comment2.target=void\ run()
+numComments=3

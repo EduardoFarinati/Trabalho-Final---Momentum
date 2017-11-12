@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ V
+comment0.target=MobileWall(int,\ int,\ int,\ int,\ movement.Vector)
+comment1.params=
+comment1.target=movement.Vector\ getVel()
+comment2.params=vel
+comment2.target=void\ setVel(movement.Vector)
+numComments=3

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=x\ y\ largura\ altura
+comment0.target=GridObject(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Construtor\ deve\ inicializar\ na\ orientacao\ default\ ou\ em\ uma\ orientacao\ dada\r\n
+comment1.params=x\ y\ largura\ altura\ orientacao
+comment1.target=GridObject(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.awt.Rectangle\ getHitbox()
+comment3.params=hitbox
+comment3.target=void\ setHitbox(java.awt.Rectangle)
+comment3.text=\r\n\ setHitbox\ seta\ a\ nova\ hitbox\r\n
+comment4.params=
+comment4.target=int\ getOrientacao()
+comment5.params=orientacao
+comment5.target=void\ setOrientacao(int)
+comment6.params=
+comment6.target=movement.Sprite\ getSprite()
+comment6.text=\r\n\ retornamos\ a\ sprite\ do\ objeto\r\n
+comment7.params=sprite
+comment7.target=void\ setSprite(movement.Sprite)
+comment8.params=graus\ sentido
+comment8.target=void\ rotate(int,\ boolean)
+comment8.text=\r\n\ rotate\ gira\ o\ objeto\ em\ um\ angulo\ fornecido\ positiva\ ou\ negativamente\r\n
+numComments=9

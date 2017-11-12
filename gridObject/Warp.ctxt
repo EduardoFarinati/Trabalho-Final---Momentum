@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=x\ y\ resourceLoader
+comment0.target=Warp(int,\ int,\ ui.resources.ResourceLoader)
+comment0.text=\r\n\ Constructor\ de\ Warp\ usa\ o\ construtor\ de\ GridObject\r\n\ Warp\ deve\ ter\ uma\ posicao\ padrao\ para\ cada\ mapa\r\n
+comment1.params=nave\ levelP
+comment1.target=void\ colisao(Nave,\ ui.LevelPanel)
+comment1.text=\r\n\ colisao\ -\ Damos\ override\ no\ metodo\ de\ colisao\ para\ definir\ o\ que\ ocorre\ apos\ uma\ colisao\r\n
+comment2.params=
+comment2.target=void\ animate()
+comment2.text=\r\n\ Animate\ -\ modifica\ a\ sprite\ para\ animarmos\ o\ gridObject\r\n
+comment3.params=
+comment3.target=void\ run()
+comment4.params=set
+comment4.target=void\ setSleep(boolean)
+numComments=5

@@ -1,0 +1,6 @@
+Trabalho - Final Programação Orientada a Objeto
+Integrantes: André Perinazzo, Eduardo Leite, Marcelo Monaretto
+
+Nosso grupo pretende modelar um jogo 2d, com um visão superior de uma nave percorrendo um labirinto. O jogador terá controle da angulação da nave e poderá a acelerar, a nave acelerará no eixo orientado e percorrerá o caminho segundo uma resultante com sua trajetória prévia. Isso significa que o usuário será incapaz de propriamente "Freiar" sua nave, entretando poderá alterar sua trajetória acelerando em uma direção e sentido específicos.
+
+Pretendemos desenvolvar um mapa baseado em grid, onde encontraremos diversas entidades como paredes de diferentes tamanhos, móveis ou não. Estás serão designadas por classes, todas devem ser especiações de um tipo específico de parede, que por sua vez serão especiações de GridObject (classe que define os atributos e métodos de qualquer objeto pertencente à grid). Pretendemos designar múltiplos mapas, cada um será inicializado por um método de classe, controlado por uma interface com o player.

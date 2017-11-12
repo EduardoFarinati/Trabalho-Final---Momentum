@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nave\ resourceLoader
+comment0.target=ShieldThread(gridObject.Nave,\ ui.resources.ResourceLoader)
+comment0.text=\r\n\ Construtor\ de\ ShieldThread\ recebe\ sua\ nave\ e\ o\ resourceLoader\r\n
+comment1.params=
+comment1.target=void\ run()
+numComments=2

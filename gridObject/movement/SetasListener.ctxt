@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nave
+comment0.target=SetasListener(gridObject.Nave)
+comment0.text=\r\n\ Recebe\ uma\ nave\ a\ ser\ tratada\ com\ os\ eventos\r\n
+comment1.params=e
+comment1.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.params=e
+comment2.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment3.params=key
+comment3.target=void\ moveNave(int)
+comment3.text=\r\n\ metodo\ privado,\ auxilia\ na\ manipulacao\ do\ array\ de\ teclas\ apertadas\r\n
+numComments=4

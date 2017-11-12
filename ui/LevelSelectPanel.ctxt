@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=mainFrame
+comment0.target=LevelSelectPanel(MainFrame)
+comment0.text=\r\n\ Constructor\ de\ LevelSelectPanel\ inicia\ sua\ parte\ grafica\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

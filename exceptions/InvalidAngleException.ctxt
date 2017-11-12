@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=angle
+comment0.target=InvalidAngleException(int)
+comment0.text=\r\n\ Constructor\ para\ a\ excecao\ InvalidAngleException\r\n
+numComments=1

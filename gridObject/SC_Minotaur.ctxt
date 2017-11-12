@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ resourceLoader
+comment0.target=SC_Minotaur(int,\ int,\ ui.resources.ResourceLoader)
+comment0.text=\r\n\ Construtor\ de\ SC_Minotaur\ recebe\ sua\ posicao\ e\ o\ resourceLoader\ do\ jogo\r\n\ podemos\ fornecer,\ opicionalmente,\ uma\ velocidade\ inicial\r\n
+comment1.params=x\ y\ resourceLoader\ Vx\ Vy
+comment1.target=SC_Minotaur(int,\ int,\ ui.resources.ResourceLoader,\ int,\ int)
+comment2.params=x\ y\ resourceLoader\ vel
+comment2.target=SC_Minotaur(int,\ int,\ ui.resources.ResourceLoader,\ movement.Vector)
+comment3.params=
+comment3.target=void\ especial()
+comment3.text=\r\n\ especial\ -\ o\ especial\ dessa\ nave\ e\ um\ escudo\r\n\ a\ protegera\ por\ alguns\ segundos\r\n
+numComments=4
